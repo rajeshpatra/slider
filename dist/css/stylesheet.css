@@ -10,6 +10,7 @@ body {
 	padding-top: 320px;
 	margin: 100px auto;
 	box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.75);
+	/*text-align: center;*/
 }
 
 .slider>img {
@@ -32,6 +33,7 @@ body {
 	cursor: pointer;
 	transition: all 0.5s;
 	opacity: 0.6;
+	/*display: inline-block;*/
 }
 
 .slider label img {
